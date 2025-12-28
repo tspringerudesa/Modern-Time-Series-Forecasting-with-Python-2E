@@ -31,7 +31,6 @@ dependencies:
   # - pytorch::pytorch
   # - pytorch::torchvision
   # - pytorch::torchaudio
-  - 
 
   - pip
   - pip:
